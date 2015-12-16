@@ -2,9 +2,11 @@
   "name": "gabia-sms",
   "version": "0.0.1",
   "description": "Unofficial Gabia SMS API for Node.js",
+  "keywords": ["gabia", "sms"],
   "main": "index.js",
-  "repository": "https://github.com/Snack-X/node-gabia-sms",
   "author": "Snack <korsnack@korsnack.kr>",
+  "repository": "Snack-X/node-gabia-sms",
+  "bugs": "https://github.com/Snack-X/node-gabia-sms/issues",
   "license": "MIT",
   "dependencies": {
     "underscore": "^1.8.3",
