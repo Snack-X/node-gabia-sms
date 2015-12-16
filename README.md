@@ -27,6 +27,8 @@ Object `params` should have three properties, `phone`, `callback`, `message`.
 
 ## TODO
 
+* Better documentation
 * Better error handling
 * Remove XMLRPC
 * Implement all api
+* In pure Javascript (xml2json uses node-expat)
